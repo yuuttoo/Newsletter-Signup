@@ -40,7 +40,7 @@ app.post("/", (req, res) => {
         url: "https://us3.api.mailchimp.com/3.0/lists/API key", 
         method: "POST",
         headers: {
-            "Authorization": "xxxxx API key"
+            "Authorization": "Any String + API key"
         },
         body: jsonData
     };
@@ -72,11 +72,3 @@ app.listen(process.env.PORT || 3000, () => {
 
 })
 
-//1cbeacaf13e1410323d46c6df61296ba-us3
-//088bc14c82
-//1cbeacaf13e1410323d46c6df61296ba-us
-//088bc14c82
-
-
-//8b39658f73e22d8c8020c5c4e7ee3b7f-us3
-//
