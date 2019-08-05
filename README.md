@@ -5,7 +5,7 @@ Newsletter Signup App
 
 使用bootstrap排版
 
-外接電子報資料庫服務MailChimp的API
+串接電子報資料庫管理系統MailChimp的API
 
 並完成部署到heroku伺服器
 
